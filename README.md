@@ -9,4 +9,4 @@ Future improvements could be made within the network architecture itself as comp
 used in other projects regarding this topic. Additionally, the choice of Spectrogram could improve the networks generalization to other forms of audio to improve rythm 
 detections as well as sound quality.  
   
-Within this porject directly, limiting the TorchAudio Spectrograms range of frequency may prove useful in audio quality improvement as well as pattern detection.
+Within this project directly, limiting the TorchAudio Spectrograms range of frequency may prove useful in audio quality improvement as well as pattern detection.
