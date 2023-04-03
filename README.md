@@ -8,4 +8,5 @@ and Neural Style Transfer to name a couple of reimplementations. This project wi
 Future improvements could be made within the network architecture itself as computational limitations forced this project to remain at only 1/4 of the number of layers
 used in other projects regarding this topic. Additionally, the choice of Spectrogram could improve the networks generalization to other forms of audio to improve rythm 
 detections as well as sound quality.  
+  
 Within this porject directly, limiting the TorchAudio Spectrograms range of frequency may prove useful in audio quality improvement as well as pattern detection.
